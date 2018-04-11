@@ -1,3 +1,3 @@
 # Financial-Management
 
-www.merry.com.tw/page/investor/divident.aspx
+www.merry.com.tw/page/investor/dividend.aspx
